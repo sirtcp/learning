@@ -1,4 +1,5 @@
 echo "commit one"
 echo "Commit 2"
 echo "Staging test"
-
+echo "working Directory"
+echo "playing with log"
